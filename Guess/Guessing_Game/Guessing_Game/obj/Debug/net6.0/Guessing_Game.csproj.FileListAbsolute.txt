@@ -1,0 +1,15 @@
+C:\self_git\C#_Project\Guess\Guessing_Game\Guessing_Game\bin\Debug\net6.0\Guessing_Game.exe
+C:\self_git\C#_Project\Guess\Guessing_Game\Guessing_Game\bin\Debug\net6.0\Guessing_Game.deps.json
+C:\self_git\C#_Project\Guess\Guessing_Game\Guessing_Game\bin\Debug\net6.0\Guessing_Game.runtimeconfig.json
+C:\self_git\C#_Project\Guess\Guessing_Game\Guessing_Game\bin\Debug\net6.0\Guessing_Game.dll
+C:\self_git\C#_Project\Guess\Guessing_Game\Guessing_Game\bin\Debug\net6.0\Guessing_Game.pdb
+C:\self_git\C#_Project\Guess\Guessing_Game\Guessing_Game\obj\Debug\net6.0\Guessing_Game.csproj.AssemblyReference.cache
+C:\self_git\C#_Project\Guess\Guessing_Game\Guessing_Game\obj\Debug\net6.0\Guessing_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\self_git\C#_Project\Guess\Guessing_Game\Guessing_Game\obj\Debug\net6.0\Guessing_Game.AssemblyInfoInputs.cache
+C:\self_git\C#_Project\Guess\Guessing_Game\Guessing_Game\obj\Debug\net6.0\Guessing_Game.AssemblyInfo.cs
+C:\self_git\C#_Project\Guess\Guessing_Game\Guessing_Game\obj\Debug\net6.0\Guessing_Game.csproj.CoreCompileInputs.cache
+C:\self_git\C#_Project\Guess\Guessing_Game\Guessing_Game\obj\Debug\net6.0\Guessing_Game.dll
+C:\self_git\C#_Project\Guess\Guessing_Game\Guessing_Game\obj\Debug\net6.0\refint\Guessing_Game.dll
+C:\self_git\C#_Project\Guess\Guessing_Game\Guessing_Game\obj\Debug\net6.0\Guessing_Game.pdb
+C:\self_git\C#_Project\Guess\Guessing_Game\Guessing_Game\obj\Debug\net6.0\Guessing_Game.genruntimeconfig.cache
+C:\self_git\C#_Project\Guess\Guessing_Game\Guessing_Game\obj\Debug\net6.0\ref\Guessing_Game.dll

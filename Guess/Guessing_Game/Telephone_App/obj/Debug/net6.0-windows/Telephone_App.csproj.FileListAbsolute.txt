@@ -1,0 +1,17 @@
+C:\self_git\C#_Project\Guess\Guessing_Game\Telephone_App\bin\Debug\net6.0-windows\Telephone_App.exe
+C:\self_git\C#_Project\Guess\Guessing_Game\Telephone_App\bin\Debug\net6.0-windows\Telephone_App.deps.json
+C:\self_git\C#_Project\Guess\Guessing_Game\Telephone_App\bin\Debug\net6.0-windows\Telephone_App.runtimeconfig.json
+C:\self_git\C#_Project\Guess\Guessing_Game\Telephone_App\bin\Debug\net6.0-windows\Telephone_App.dll
+C:\self_git\C#_Project\Guess\Guessing_Game\Telephone_App\bin\Debug\net6.0-windows\Telephone_App.pdb
+C:\self_git\C#_Project\Guess\Guessing_Game\Telephone_App\obj\Debug\net6.0-windows\Telephone_App.csproj.AssemblyReference.cache
+C:\self_git\C#_Project\Guess\Guessing_Game\Telephone_App\obj\Debug\net6.0-windows\Telephone_App.Phone.resources
+C:\self_git\C#_Project\Guess\Guessing_Game\Telephone_App\obj\Debug\net6.0-windows\Telephone_App.csproj.GenerateResource.cache
+C:\self_git\C#_Project\Guess\Guessing_Game\Telephone_App\obj\Debug\net6.0-windows\Telephone_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\self_git\C#_Project\Guess\Guessing_Game\Telephone_App\obj\Debug\net6.0-windows\Telephone_App.AssemblyInfoInputs.cache
+C:\self_git\C#_Project\Guess\Guessing_Game\Telephone_App\obj\Debug\net6.0-windows\Telephone_App.AssemblyInfo.cs
+C:\self_git\C#_Project\Guess\Guessing_Game\Telephone_App\obj\Debug\net6.0-windows\Telephone_App.csproj.CoreCompileInputs.cache
+C:\self_git\C#_Project\Guess\Guessing_Game\Telephone_App\obj\Debug\net6.0-windows\Telephone_App.dll
+C:\self_git\C#_Project\Guess\Guessing_Game\Telephone_App\obj\Debug\net6.0-windows\refint\Telephone_App.dll
+C:\self_git\C#_Project\Guess\Guessing_Game\Telephone_App\obj\Debug\net6.0-windows\Telephone_App.pdb
+C:\self_git\C#_Project\Guess\Guessing_Game\Telephone_App\obj\Debug\net6.0-windows\Telephone_App.genruntimeconfig.cache
+C:\self_git\C#_Project\Guess\Guessing_Game\Telephone_App\obj\Debug\net6.0-windows\ref\Telephone_App.dll
